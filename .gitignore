@@ -5,8 +5,10 @@ config.py
 ratings.csv
 movies_metadata.csv
 ratings_small.csv
-wikipedia-movies.json
 credits.csv
+keywords.csv
+links_small.csv
+links.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
